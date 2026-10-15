@@ -1,0 +1,8 @@
+{
+  "name": "3D 아늑한 제설차 게임",
+  "description": "Three.js와 절차적 WebAudio를 활용해 제작한, 3D 구체 형태의 제설 및 보스 전투 게임.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
